@@ -1,2 +1,2 @@
-# linkedin-api
-Access LinkedIn Data through API
+# FlowApp
+Open Source Alternative To Notion
